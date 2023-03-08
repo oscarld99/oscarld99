@@ -6,7 +6,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, Java],
-   learning: [Dart, Flutter],
+   learning: [Jest, Kotlin],
    technologies: {
       frontEnd: {
          js: [React, Next.js, React-Native, Ionic, Headless],
